@@ -2,6 +2,8 @@ This folder contains the work of many combine lessons that I have learnt...
 
 In the index.html file, I have used the standard boilerplate of html.
 
+inde.html ->> this is the common name of home page.
+
 <!DOCTYPE html> => This indicated the browser that we are using html 5 (the latest version of html)
 
 <html> => This tag tells the browser that whatever written inside this tag is in html
