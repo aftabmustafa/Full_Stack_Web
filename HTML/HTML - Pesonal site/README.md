@@ -17,3 +17,5 @@ inde.html ->> this is the common name of home page.
 my html document is utf-8 encoded. The utf-8 is latest encoder and the reason why we should use this is, that it includes
 all the international symbols or the symbols present in the Unicode character set.
 => Let's say we want to use a special symbol or an emoji in our webpage or in title tag, if we don't mention that meta data it may happen that our browser is unable to encode that special character or emoji and show a random symbol. But if we include meta data, this type of problem can be overcome.
+
+So, at this time I am changing my code editor from Atom to VSCODE. 
