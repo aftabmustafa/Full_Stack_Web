@@ -28,3 +28,7 @@ in Atom and but the OS is debian.
 
 Created a new repo on github to host my very first webpage purely based on just html. I know it looks ugly
 but hey! this is just starting right. the next lesson I am going to learn is CSS. See you after learning that.
+
+So that's it, this project is shifted to my new repo https://aftabmustafa.github.io/Personal_WebPage/ . I will continue my work from their.
+
+Good BYE
