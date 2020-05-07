@@ -18,5 +18,13 @@ my html document is utf-8 encoded. The utf-8 is latest encoder and the reason wh
 all the international symbols or the symbols present in the Unicode character set.
 => Let's say we want to use a special symbol or an emoji in our webpage or in title tag, if we don't mention that meta data it may happen that our browser is unable to encode that special character or emoji and show a random symbol. But if we include meta data, this type of problem can be overcome.
 
-So, at this time I am changing my code editor from Atom to VSCODE. 
+So, at this time I am changing my code editor from Atom to VSCODE.
 My first commit and push from VSCODE after a hell lot of fix from linux system.
+
+So after a hell lot of search on internet about how to sign in github in Atom in debian, I go through
+some of the documentation of ssh key generation on github webpage and fixed this on myself. So, again I am
+in Atom and but the OS is debian.
+
+
+Created a new repo on github to host my very first webpage purely based on just html. I know it looks ugly
+but hey! this is just starting right. the next lesson I am going to learn is CSS. See you after learning that.
